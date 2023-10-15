@@ -1,6 +1,6 @@
 ![MasterHead](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Avare Manish Kumar</h1>
-<h3 align="center">A passionate fullstack developer from India.Innovative optimized solution seeker.</h3>
+<h3 align="center"> A passionate Full-Stack developer from India. A Team Lead 🚀 | 💡 Front-End Ninja | Creating Cutting-Edge Web Applications with React & TypeScript 🌐 HTML5 | Node.js | MERN Stack | AWS .</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" >
 
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Reactnative**
 
-- 💬 Ask me about **React,Html,Css,JS**
+- 💬 Ask me about **JavaScript, React, Html, CSS, React Native**
 
-- 📫 How to reach me **avaremanish@gmail.com**
+- 📫 How to reach me **avaremanishwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
