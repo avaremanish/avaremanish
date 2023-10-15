@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Avare Manish Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India.Innovative optimized solution seeker.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" >
