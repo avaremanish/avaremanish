@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amanishkumar12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanishkumar12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avare manishkumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avare manishkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avaremanishkumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avare manishkumar" height="30" width="40" /></a>
 <a href="https://fb.com/manish avare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish avare" height="30" width="40" /></a>
 <a href="https://instagram.com/fashionwith.m.k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fashionwith.m.k" height="30" width="40" /></a>
 </p>
