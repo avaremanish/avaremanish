@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **avaremanishwork@gmail.com**
   
--  👨🏻‍💻 <span> <a href="https://avaremanishkumar.netlify.app/"> My Portfolio </a> </span>
+-  👨🏻‍💻 <span> <a href="https://avaremanishkumar.netlify.app/" target= "_blank" > My Portfolio </a> </span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
