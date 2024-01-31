@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactnative**
 
-- 💬 Ask me about **JavaScript, React, Html, CSS, React Native**
+- 💬 Ask me about **JavaScript, React JS, HTML, CSS, React Native**
 
 - 📫 How to reach me **avaremanishwork@gmail.com**
 
